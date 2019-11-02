@@ -1,0 +1,166 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://.1269131100.2./dhsd/sz.php
+Subject: =?utf-8?Q?=E8=AE=BE=E7=BD=AE?=
+Date: Sat, 2 Nov 2019 13:43:12 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--H1ljbHUhdFPSKSGanvR8QzenUCPg5rkaMnluwcbugC----"
+
+
+------MultipartBoundary--H1ljbHUhdFPSKSGanvR8QzenUCPg5rkaMnluwcbugC----
+Content-Type: text/html
+Content-ID: <frame-5459061BA09C057F8A0125FCEC1E3669@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://.1269131100.2./dhsd/sz.php
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8">
+   =20
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">
+    <link rel=3D"shortcut icon" href=3D"http://.1269131100.2./dhsd/m/g.png"=
+>
+    <link rel=3D"bookmark" href=3D"http://.1269131100.2./dhsd/m/g.png">
+    <link rel=3D"stylesheet" href=3D"http://.1269131100.2./dhsd/style.css">
+    <title>=E8=AE=BE=E7=BD=AE</title>
+</head>
+
+<body style=3D"background:rgb(215, 231, 231)">
+<h4>=E4=B8=AA=E4=BA=BA=E4=BF=A1=E6=81=AF</h4>
+    <form style=3D"text-align:center;margin: 10px" action=3D"http://101.132=
+.192.60/dhsd/xg.php" method=3D"post">
+
+        =E6=98=B5=E7=A7=B0=EF=BC=9A<input class=3D"dbi" id=3D"newnick" name=
+=3D"newnick" type=3D"text" value=3D"=E6=88=91=E5=A4=AA=E8=8F=9C=E4=BA=86"><=
+br><br>
+        <input class=3D"dbn" type=3D"submit" value=3D"=E4=BF=AE=E6=94=B9" s=
+tyle=3D"color:darksalmon;font-style:inherit">
+        <input class=3D"dbn" type=3D"button" value=3D"=E8=BF=94=E5=9B=9E" s=
+tyle=3D"color:darkcyan">
+    </form>
+<h4>=E5=AE=9E=E9=AA=8C=E5=AE=A4</h4>
+    <form style=3D"text-align:center;margin: 10px" action=3D"http://101.132=
+.192.60/dhsd/shanchu.php" method=3D"post">
+    =E5=88=A0=E9=99=A4=E8=BF=87=E5=8E=BB <input class=3D"dbi" id=3D"past" n=
+ame=3D"past" type=3D"text" value=3D"0">=E7=A7=92=E6=88=91=E5=8F=91=E9=80=81=
+=E7=9A=84=E8=AF=84=E8=AE=BA<br><br>
+    <input class=3D"dbn" type=3D"submit" value=3D"=E7=A1=AE=E8=AE=A4" style=
+=3D"color:darksalmon;font-style:inherit">
+    </form>
+
+
+
+
+
+
+</body></html>
+------MultipartBoundary--H1ljbHUhdFPSKSGanvR8QzenUCPg5rkaMnluwcbugC----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://.1269131100.2./dhsd/style.css
+
+@charset "utf-8";
+
+body, td, th { font-family: Verdana, Arial, Helvetica, sans-serif; text-ali=
+gn: center; }
+
+h1 { font: 3em Helvetica, Arial, sans-serif; }
+
+h2 { font: 2.5em Helvetica, Arial, sans-serif; margin: auto; }
+
+h3 { font: 2em Helvetica, Arial, sans-serif; margin: auto; }
+
+h4 { font: 1.5em Helvetica, Arial, sans-serif; margin: auto; }
+
+p { font: 1.2em Helvetica, Arial, sans-serif; margin: auto; white-space: no=
+rmal; overflow-wrap: break-word; word-break: break-all; }
+
+small { font-size: 0.875em; }
+
+.main { float: right; width: 70%; }
+
+.leftBar { float: left; width: 25%; }
+
+img, object { }
+
+img { width: 20%; }
+
+img { }
+
+.ilogo { width: 20%; border-radius: 10%; }
+
+.iform1 { width: 60%; margin: 1%; font-size: 2em; border-radius: 10px; }
+
+.iform2 { width: 60%; margin: 1%; font-size: 1.6em; border-radius: 10px; }
+
+.btn { margin: 9%; }
+
+input { border: 2px solid rgb(212, 212, 212); white-space: normal; overflow=
+-wrap: break-word; word-break: break-all; outline: none; }
+
+.leaf { display: inline-block; margin-top: 30px; background: rgb(99, 206, 1=
+79); width: 91%; border-radius: 18px; }
+
+.info { display: inline; }
+
+.ubtn { width: 24%; font-size: 1em; margin: 4%; max-width: 200px; border-ra=
+dius: 10px; }
+
+.ubtn:hover { box-shadow: rgba(0, 0, 0, 0.24) 0px 12px 16px 0px, rgba(0, 0,=
+ 0, 0.19) 0px 17px 50px 0px; }
+
+.fbn { background-color: rgb(173, 173, 173); border: none; color: white; pa=
+dding: 6px 12px; text-align: center; text-decoration: none; display: inline=
+-block; font-size: 1em; cursor: pointer; margin: 2% -3px -1px; opacity: 1; =
+border-radius: 1px; }
+
+.fbn:hover { background-color: white; border: 1px; color: rgb(126, 126, 126=
+); }
+
+.fbn:disabled { opacity: 0.6; cursor: not-allowed; }
+
+.dbi { width: 43%; border-radius: 8px; }
+
+.dbn { width: 30%; margin: 3%; font-size: 1em; border-radius: 10px; }
+
+.dbn:active { transform: translateY(4px); }
+
+.sender { position: fixed; bottom: 0px; margin-left: -8px; width: 100%; bor=
+der-radius: 10px; }
+
+.intree { width: 70%; font-size: 1.3em; max-width: 900px; }
+
+.bigsender { position: absolute; bottom: 0px; width: 100%; border-radius: 1=
+0px; }
+
+textarea { width: 98%; font: 1.2em Helvetica, Arial, sans-serif; margin-bot=
+tom: -4px; margin-top: 5px; background-color: rgb(251, 255, 251); }
+
+.sbn { width: 20%; margin-right: 7%; margin-left: 7%; background-color: rgb=
+(197, 196, 196); border: none; color: white; padding-top: 4px; padding-bott=
+om: 3px; text-align: center; text-decoration: none; display: inline-block; =
+font-size: 16px; cursor: pointer; border-radius: 10px; }
+
+.sbn:hover { background-color: lightsalmon; border: 1px; color: rgb(128, 12=
+8, 128); }
+
+.sbnx { width: 20%; margin-right: 7%; margin-left: 7%; background-color: rg=
+b(197, 196, 196); border: none; color: white; padding-top: 6px; padding-bot=
+tom: 5px; text-align: center; text-decoration: none; display: inline-block;=
+ font-size: 16px; cursor: pointer; margin-top: 2%; max-width: 300px; border=
+-radius: 10px; }
+
+.sbnx:hover { background-color: lightblue; border: 1px; color: rgb(128, 128=
+, 128); }
+
+.cmt { width: 90%; background-color: rgb(192, 224, 117); border: 0ch; paddi=
+ng: 8px; margin: 2px 10px; border-radius: 10px; }
+
+.cmt:hover { background-color: rgb(242, 255, 212); }
+
+.hhhh { cursor: pointer; width: 60%; border-radius: 10px; }
+
+.hhhh:hover { background-color: aliceblue; }
+------MultipartBoundary--H1ljbHUhdFPSKSGanvR8QzenUCPg5rkaMnluwcbugC------
